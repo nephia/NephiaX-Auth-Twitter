@@ -37,11 +37,11 @@ sub _verify_token {
 
 =head1 NAME
 
-NephiaX::Auth::Twitter - Web Application that powered by Nephia
+NephiaX::Auth::Twitter - Twitter Authorizer
 
 =head1 DESCRIPTION
 
-An web application
+An web application that powered by Nephia.
 
 =head1 SYNOPSIS
 

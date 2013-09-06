@@ -1,10 +1,10 @@
 # NAME
 
-NephiaX::Auth::Twitter - Web Application that powered by Nephia
+NephiaX::Auth::Twitter - Twitter Authorizer
 
 # DESCRIPTION
 
-An web application
+An web application that powered by Nephia.
 
 # SYNOPSIS
 
