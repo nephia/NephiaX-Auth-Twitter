@@ -42,7 +42,8 @@
       },
       "runtime" : {
          "requires" : {
-            "Nephia" : "0"
+            "Nephia" : "0",
+            "Net::Twitter::Lite::WithAPIv1_1" : "0"
          }
       },
       "test" : {
