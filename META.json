@@ -52,5 +52,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/nephia/NephiaX-Auth-Twitter/issues"
+      },
+      "homepage" : "https://github.com/nephia/NephiaX-Auth-Twitter",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/nephia/NephiaX-Auth-Twitter.git",
+         "web" : "https://github.com/nephia/NephiaX-Auth-Twitter"
+      }
+   },
    "version" : "0.01"
 }
